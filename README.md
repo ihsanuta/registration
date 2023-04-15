@@ -11,4 +11,4 @@ migrate -database 'mysql://root:root@tcp(localhost:3306)/registration?parseTime=
 ```
 
 
-* Open Swagger with [URL](http://localhost:8880/swagger/index.html)
+* Open Swagger with [URL](http://localhost:8080/swagger/index.html)
